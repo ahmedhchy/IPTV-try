@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi  (Sohel/Arif/Sakil)",1.Sangsad TV [Trial]
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",2.GTV [Trial]
+http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",3.DBC News [Trial]
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",4.News 24 [Trial]
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangladeshi  (Sohel/Arif/Sakil)",5.JAMUNA TV [Trial]
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",6.Shomoy TV [Trial]
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",7.Independent [Trial]
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",8.ATN News [Trial]
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",9.Channel 9 [Trial]
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",10.CHANNEL 24 [Trial]
+http://103.205.133.19/hls/channel24.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",11.Channel I [Trial]
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",12.ATN Bangla [Trial]
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",13.SATV [Trial]
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",14.RTV [Trial]
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",15.NTV [Trial]
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",16.Banglavision [Trial]
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",17.Boishakhi [Trial]
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",18.Maasranga [Trial]
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",19.Deepto TV [Trial]
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi  (Sohel/Arif/Sakil)",20.Sangsad TV [Trial]
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",21.Ekushey TV [Trial]
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi  (Sohel/Arif/Sakil)",22.My TV HD [Trial]
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",23.Gaan Bangla [Trial]
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",24.Nagorik [Trial]
+http://103.205.133.14/hls/nagorik.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi  (Sohel/Arif/Sakil)",25.Bangla TV [Trial]
+http://103.205.133.14/hls/banglatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="IndianBangla  (Sohel/Arif/Sakil)",26.Zee Bangla [Trial]
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="IndianBangla  (Sohel/Arif/Sakil)",27.Star Jalsha HD [Trial]
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="IndianBangla  (Sohel/Arif/Sakil)",28.Colors Bangla HD [Trial]
+https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="IndianBangla  (Sohel/Arif/Sakil)",29.Jalsha Movies [Trial]
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="IndianBangla  (Sohel/Arif/Sakil)",30.Sony Aath [Trial]
+http://103.205.133.14/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports+Kids  (Sohel/Arif/Sakil)",31.D Sports [Trial]
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports+Kids  (Sohel/Arif/Sakil)",32.Ads Sports [Trial]
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="Sports+Kids  (Sohel/Arif/Sakil)",33.Sky Sports Cricket [Trial]
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Sports+Kids  (Sohel/Arif/Sakil)",34.Nick Bangla [Trial]
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="Sports+Kids  (Sohel/Arif/Sakil)",35.Cbeebies [Trial]
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="Indian  (Sohel/Arif/Sakil)",36.Star Plus HD [Trial]
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Indian  (Sohel/Arif/Sakil)",37.Star Gold HD [Trial]
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Indian  (Sohel/Arif/Sakil)",38.Zee TV [Trial]
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Indian  (Sohel/Arif/Sakil)",39.Zee Cinema [Trial]
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Indian  (Sohel/Arif/Sakil)",40.Star Bharat [Trial]
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music  (Sohel/Arif/Sakil)",41.Sangeet Bangla [Trial]
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="Music  (Sohel/Arif/Sakil)",42.Dhoom Music [Trial]
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music  (Sohel/Arif/Sakil)",43.8XM [Trial]
+https://playlive.goonj.pk/8xmweb_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music  (Sohel/Arif/Sakil)",44.9XM [Trial]
+http://103.205.133.14/hls/9xm.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music  (Sohel/Arif/Sakil)",45.Zing [Trial]
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English  (Sohel/Arif/Sakil)",46.MNX [Trial]
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English  (Sohel/Arif/Sakil)",47.Lotus Macaw [Trial]
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English  (Sohel/Arif/Sakil)",48.Romedy Now [Trial]
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="English  (Sohel/Arif/Sakil)",49.Hits [Trial]
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="English  (Sohel/Arif/Sakil)",50.History TV HD [Trial]
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX SD
+http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",UTV HD
+http://starshare.live:8080/live/216176@56/801966@56/1382.ts
