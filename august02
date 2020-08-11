@@ -15,6 +15,9 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/????_?????_????.svg/360px-????_?????_????.svg.png" group-title="Bangla News",Somoy News
 #EXTGRP:Bangla News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
+#EXTGRP:Bangla
+http://103.141.66.36/bpk-tv/10009/default/manifest.mpd
 http://103.141.66.36/bpk-tv/10030/default/manifest.mpd
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV
 #EXTGRP:Bangla News
